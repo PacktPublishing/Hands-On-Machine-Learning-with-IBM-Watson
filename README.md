@@ -41,7 +41,7 @@ With the following software and hardware list you can run all code files present
 ### Software and Hardware List
 | Chapter | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
-| All | IBM Cloud | Windows, Mac OS X, and Linux (Any) |
+| All | IBM Cloud | Windows |
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](http://www.packtpub.com/sites/default/files/downloads/9781789611854_ColorImages.pdf).
 
