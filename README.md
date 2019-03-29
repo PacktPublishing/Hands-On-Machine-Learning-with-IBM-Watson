@@ -53,7 +53,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 
 ## Other books by the authors
-[ Follow the Author ](https://www.amazon.in/IBM-Watson-Projects-intelligence-performance-ebook/dp/B07F2VGDR5/ref=sr_1_1?keywords=IBM+Projects&qid=1553862501&s=digital-text&sr=1-1-spell&utm_source=github&utm_medium=repository&utm_campaign=)
+[ IBM Watson Projects ](https://www.amazon.in/IBM-Watson-Projects-intelligence-performance-ebook/dp/B07F2VGDR5/ref=sr_1_1?keywords=IBM+Projects&qid=1553862501&s=digital-text&sr=1-1-spell&utm_source=github&utm_medium=repository&utm_campaign=)
 
 
 ### Suggestions and Feedback
