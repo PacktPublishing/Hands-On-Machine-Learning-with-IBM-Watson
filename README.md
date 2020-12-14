@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/hands-on-machine-learning-with-ibm-watson/9781789611854)
+-----
+*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1789611857).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 #  Hands-On Machine Learning with IBM Watson
 
 <a href="https://www.amazon.in/Hands-Machine-Learning-IBM-Watson-ebook/dp/B07P17TNWF?utm_source=github&utm_medium=repository&utm_campaign="><img src="https://images-eu.ssl-images-amazon.com/images/I/51mSKfkaZaL.jpg" alt=" Hands-On Machine Learning with IBM Watson: Leveraging IBM Watson to implement machine Learning techniques and algorithms using Python   Kindle Edition  " height="256px" align="right"></a>
