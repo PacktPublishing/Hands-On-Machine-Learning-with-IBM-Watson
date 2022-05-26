@@ -1,3 +1,7 @@
+## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B12285?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
+-----
+For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
+
 #  Hands-On Machine Learning with IBM Watson
 
 <a href="https://www.amazon.in/Hands-Machine-Learning-IBM-Watson-ebook/dp/B07P17TNWF?utm_source=github&utm_medium=repository&utm_campaign="><img src="https://images-eu.ssl-images-amazon.com/images/I/51mSKfkaZaL.jpg" alt=" Hands-On Machine Learning with IBM Watson: Leveraging IBM Watson to implement machine Learning techniques and algorithms using Python   Kindle Edition  " height="256px" align="right"></a>
