@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781789611854)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 #  Hands-On Machine Learning with IBM Watson
 
 <a href="https://www.amazon.in/Hands-Machine-Learning-IBM-Watson-ebook/dp/B07P17TNWF?utm_source=github&utm_medium=repository&utm_campaign="><img src="https://images-eu.ssl-images-amazon.com/images/I/51mSKfkaZaL.jpg" alt=" Hands-On Machine Learning with IBM Watson: Leveraging IBM Watson to implement machine Learning techniques and algorithms using Python   Kindle Edition  " height="256px" align="right"></a>
